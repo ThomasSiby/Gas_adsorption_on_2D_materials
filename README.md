@@ -28,4 +28,4 @@
 
 # What do yo need to run
 This code was run in a standard-datascience-environment (numpy, pandas, sklearn, matplotlib) and should not have special dependencies. 
-If we use those, we install them to your current env in the first cell of each notebook.# adsorption_on_2D
+If we use those, we install them to your current env in the first cell of each notebook.
