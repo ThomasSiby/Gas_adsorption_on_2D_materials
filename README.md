@@ -1,5 +1,6 @@
 # What is in here:
-- notebooks to load the structure files (found in data) and match them to the table including the features from `Mg_data_for_ML.fixed.xlsx` (`convert-vasp.ipynb`). In the 'Mg_data_for_ML.fixed.xlsx file', 
+- notebooks to load the structure files (found in data) and match them to the table including the features from `Mg_data_for_ML.fixed.xlsx` (`convert-vasp.ipynb`). In the 'Mg_data_for_ML.fixed.xlsx file', \
+
 	(a) the DFT computed properties are:
 	E_ads: DFT computed adsoprtion energy
 	TE: DFT computed total energy
