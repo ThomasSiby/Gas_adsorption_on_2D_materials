@@ -1,3 +1,5 @@
+### Siby Thomas, Felix Mayr, Ajith Kulangara Madam and Alessio Gagliardi. Machine learning and DFT investigation of CO, CO2 and CH4 adsorption on pristine and defective two-dimensional magnesene. 
+
 # What is in here:
 - notebooks to load the structure files (found in data) and match them to the table including the features from `Mg_data_for_ML.fixed.xlsx` (`convert-vasp.ipynb`). In the 'Mg_data_for_ML.fixed.xlsx file', \
 
