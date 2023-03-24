@@ -1,6 +1,6 @@
-### Siby Thomas, Felix Mayr, Ajith Kulangara Madam and Alessio Gagliardi. Machine learning and DFT investigation of CO, CO2 and CH4 adsorption on pristine and defective two-dimensional magnesene. 
+#### Siby Thomas, Felix Mayr, Ajith Kulangara Madam and Alessio Gagliardi. Machine learning and DFT investigation of CO, CO2 and CH4 adsorption on pristine and defective two-dimensional magnesene. 
 
-# What is in here:
+### What is in here:
 - notebooks to load the structure files (found in data) and match them to the table including the features from `Mg_data_for_ML.fixed.xlsx` (`convert-vasp.ipynb`). In the 'Mg_data_for_ML.fixed.xlsx file', \
 
 	(a) the DFT computed properties are:
@@ -28,6 +28,6 @@
 - some experiments with models from the Open-Catalyst-Project to check whether those models could be used as an off-the-shelf surrogate for our problem or at least provide meaningful 
   correlation to the data collected in the experiment. `relax_ocp.ipynb`
 
-# What do yo need to run
+### What do yo need to run
 This code was run in a standard-datascience-environment (numpy, pandas, sklearn, matplotlib) and should not have special dependencies. 
 If we use those, we install them to your current env in the first cell of each notebook.
