@@ -22,8 +22,7 @@
 	ion_rad: Ionic radius of the elements
 	density: density of the elements
 
-- notebooks to reproduce the cross-validated models shown in the paper `....`. Both with the statistical fingerprints described in the paper (`simple_ml.ipynb`), as well as SOAP (`soapy_ml.ipynb`). 
-  Fitting and plotting functionality is provided by the module `sklearn_utils.py`.
+- notebooks to reproduce the cross-validated models shown in the paper Phys. Chem. Chem. Phys., 2023 (https://doi.org/10.1039/D3CP00613A). Both with the statistical fingerprints described in the paper (`simple_ml.ipynb`), as well as SOAP (`soapy_ml.ipynb`). Fitting and plotting functionality is provided by the module `sklearn_utils.py`.
 
 - some experiments with models from the Open-Catalyst-Project to check whether those models could be used as an off-the-shelf surrogate for our problem or at least provide meaningful 
   correlation to the data collected in the experiment. `relax_ocp.ipynb`
